@@ -1,0 +1,5 @@
+net\togogo\service\tbUerService.class
+net\togogo\servlet\RegistServlet.class
+net\togogo\bean\tb_user.class
+net\togogo\utils\JdbcUtils.class
+net\togogo\dao\TbUserDao.class
